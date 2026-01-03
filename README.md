@@ -74,10 +74,11 @@ node notas-atletas.js
 
 5. O resultado será exibido diretamente no console
 
-Exemplo de Saída
+## 📊 Exemplo de Saída no Console
+
 Atleta: Cesar Abascal
 Notas Obtidas: 7.88,8.42,9.34,10,10
-Média Válida: 9.253333333333334
+Média Válida: 9.253333333333332
 
 ### Opção 2: Console do Navegador
 
